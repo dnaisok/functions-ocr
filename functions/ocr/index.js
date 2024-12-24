@@ -54,7 +54,7 @@ Requirements:
         },
       },
       body: JSON.stringify({
-        model: 'hunyuan-vision',
+        model: 'gpt-4o',
         messages: messages,
       }),
     });
